@@ -10,6 +10,8 @@ Follow me!
 
 [Spotify](https://open.spotify.com/user/hp2wicadls2eyb8csw21fittp)
 
+[Pintrest](https://ph.pinterest.com/luciasintag/)
+
 Fav song!!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2qT1uLXPVPzGgFOx4jtEuo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
