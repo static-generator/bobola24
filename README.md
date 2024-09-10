@@ -2,6 +2,17 @@
 ## Lucia Sinta G. Martinez
 ### CN 24
 
+Favorite Show!
+
+
+
+
+
+!(![image](https://github.com/user-attachments/assets/9b38994a-6549-4fec-a750-acba3db33de0)
+
+
+
+
 Follow me!
 
 [Instagram](https://www.instagram.com/martinezlucyyy/)
@@ -15,3 +26,4 @@ Follow me!
 Fav song!!
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/50oEtTUNlce4TuZXQoJzXW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
